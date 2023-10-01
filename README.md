@@ -32,6 +32,6 @@ Scratch-Bench © 2023 by haru86kun
 ダウンロード↓
 https://github.com/creeper-is-creeper/scratch-bench-dl/releases/tag/Current_Version
 
-haru86kun - scratch： [haru86kun](https://scratch.mit.edu/users/haru86kun/) サブ垢：haru86kun [-creeper-is-creeper-](https://scratch.mit.edu/users/-creeper-is-creeper-/)
+scratch メイン垢： [haru86kun](https://scratch.mit.edu/users/haru86kun/) サブ垢：[-creeper-is-creeper-](https://scratch.mit.edu/users/-creeper-is-creeper-/)
 Unity-haru86kun ： https://play.unity.com/u/haru86kun
 23.09.30改定
